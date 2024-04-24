@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tv_shows_list_test_task/static/css/main.3a7efcbc.css",
+    "main.js": "/tv_shows_list_test_task/static/js/main.9ddba466.js",
+    "static/js/453.63f6b601.chunk.js": "/tv_shows_list_test_task/static/js/453.63f6b601.chunk.js",
+    "index.html": "/tv_shows_list_test_task/index.html",
+    "main.3a7efcbc.css.map": "/tv_shows_list_test_task/static/css/main.3a7efcbc.css.map",
+    "main.9ddba466.js.map": "/tv_shows_list_test_task/static/js/main.9ddba466.js.map",
+    "453.63f6b601.chunk.js.map": "/tv_shows_list_test_task/static/js/453.63f6b601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7efcbc.css",
+    "static/js/main.9ddba466.js"
+  ]
+}
